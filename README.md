@@ -1,5 +1,4 @@
 ##  Oiii eu sou o Car-loshenrique, Estudante de conteúdo de programação e tecnologia! 
-- 
 - 👋 ola! Eu sou o @Car-loshenrique
 - 🎓 Atualmente Formado E Graduado En Análise E Desenvolvimento de Sistemas/na Universidade Paulista, (SANTOS RANGEL).
 - 💻 Estudando Power BI E Spring React e várias Área de Programação, etc.
