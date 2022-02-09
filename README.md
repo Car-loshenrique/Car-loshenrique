@@ -6,7 +6,9 @@
 - 📫 How to reach me ...
 - 😀 Pronouns: ele/dele.
 <div>
+ 
+  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/henriquemoaris.ads@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/henriquemorraes)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/www.linkedin.com/in/carlos-henrique-morais-bezerra-349273200)
 
-<a href="https://CARLOS HENRIQUE MORAIS#6047 " target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:henriquemorais.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/carlos-henrique-morais-bezerra-349273200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+![Car-loshenrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Car-loshenrique&show_icons=true&theme=radical)
